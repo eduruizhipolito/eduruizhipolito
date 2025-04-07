@@ -8,3 +8,5 @@
 - 📫 How to reach me: [eduruizhipolito](https://twitter.com/eduruizhipolito)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/eduruizhipolito/eduruizhipolito)
+
+### :zap: Actividad reciente
