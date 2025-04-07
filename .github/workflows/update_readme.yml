@@ -5,6 +5,9 @@ on:
     - cron: "* */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write  # 🔥 Esto es clave para poder hacer commit y push
+  
 jobs:
   build:
     runs-on: ubuntu-latest
