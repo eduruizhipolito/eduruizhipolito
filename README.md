@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on AI & Web3
-- 🌱 I’m currently learning Git & GitHub
+- 🔭 I’m currently exploring AI & Web3
+- 🌱 I justed learned Git & GitHub
 - 👯 I’m looking to collaborate on awesome AI & Web3 projects
 - 💬 Ask me about Project Management, Banking and Blockchain.
 - 📫 How to reach me: [eduruizhipolito](https://twitter.com/eduruizhipolito)
