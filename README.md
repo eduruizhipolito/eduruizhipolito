@@ -11,5 +11,6 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
+1. 📔 Created new repository [eduruizhipolito/chateko](https://github.com/eduruizhipolito/chateko)<br>
 <!--RECENT_ACTIVITY:end-->
 
