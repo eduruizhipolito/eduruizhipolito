@@ -11,6 +11,5 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [eduruizhipolito/ch4tek0](https://github.com/eduruizhipolito/ch4tek0)<br>
 <!--RECENT_ACTIVITY:end-->
 
