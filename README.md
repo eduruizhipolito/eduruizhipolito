@@ -11,7 +11,10 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [eduruizhipolito/cryptohost](https://github.com/eduruizhipolito/cryptohost)<br>
-2. 📔 Created new repository [eduruizhipolito/cryptohost](https://github.com/eduruizhipolito/cryptohost)<br>
+1. ⬆️ Pushed 1 commit(s) to [eduruizhipolito/tripya](https://github.com/eduruizhipolito/tripya)<br>
+2. ⬆️ Pushed 1 commit(s) to [eduruizhipolito/tripya](https://github.com/eduruizhipolito/tripya)<br>
+3. ⬆️ Pushed 1 commit(s) to [eduruizhipolito/tripya](https://github.com/eduruizhipolito/tripya)<br>
+4. ⬆️ Pushed 1 commit(s) to [eduruizhipolito/tripya](https://github.com/eduruizhipolito/tripya)<br>
+5. 📔 Created new repository [eduruizhipolito/tripya](https://github.com/eduruizhipolito/tripya)<br>
 <!--RECENT_ACTIVITY:end-->
 
