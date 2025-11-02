@@ -11,9 +11,9 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [mavix21/Turi](https://github.com/mavix21/Turi)<br>
-2. ⬆️ Pushed undefined commit(s) to [eduruizhipolito/my-third-base-project](https://github.com/eduruizhipolito/my-third-base-project)<br>
-3. ⬆️ Pushed undefined commit(s) to [eduruizhipolito/tripya](https://github.com/eduruizhipolito/tripya)<br>
+1. ⬆️ Pushed undefined commit(s) to [eduruizhipolito/de0adApp](https://github.com/eduruizhipolito/de0adApp)<br>
+2. 🤝 Became collaborator on [mavix21/Turi](https://github.com/mavix21/Turi)<br>
+3. ⬆️ Pushed undefined commit(s) to [eduruizhipolito/my-third-base-project](https://github.com/eduruizhipolito/my-third-base-project)<br>
 4. ⬆️ Pushed undefined commit(s) to [eduruizhipolito/tripya](https://github.com/eduruizhipolito/tripya)<br>
 5. ⬆️ Pushed undefined commit(s) to [eduruizhipolito/tripya](https://github.com/eduruizhipolito/tripya)<br>
 <!--RECENT_ACTIVITY:end-->
