@@ -11,7 +11,5 @@
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [arlettemsalase/BigBlackBox](https://github.com/arlettemsalase/BigBlackBox)<br>
-2. ⬆️ Pushed undefined commit(s) to [arlettemsalase/BigBlackBox](https://github.com/arlettemsalase/BigBlackBox)<br>
 <!--RECENT_ACTIVITY:end-->
 
